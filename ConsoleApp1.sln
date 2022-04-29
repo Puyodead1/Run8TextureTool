@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1.csproj", "{7353CBF8-2CA2-4089-804E-371EF2157D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Run8ModdingToolKit", "..\DDStoTX8\Run8ModdingToolKit.csproj", "{99ADED7F-8287-49DB-B076-31C370AEC118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7353CBF8-2CA2-4089-804E-371EF2157D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7353CBF8-2CA2-4089-804E-371EF2157D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7353CBF8-2CA2-4089-804E-371EF2157D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7353CBF8-2CA2-4089-804E-371EF2157D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99ADED7F-8287-49DB-B076-31C370AEC118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ADED7F-8287-49DB-B076-31C370AEC118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ADED7F-8287-49DB-B076-31C370AEC118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ADED7F-8287-49DB-B076-31C370AEC118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BB75B2C-22AE-437F-B36A-07AD2A937B70}
+	EndGlobalSection
+EndGlobal
